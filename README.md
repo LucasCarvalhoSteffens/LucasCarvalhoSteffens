@@ -21,6 +21,6 @@
   <a href="https://www.linkedin.com/in/lucas-de-carvalho-steffens-017b8b210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:carvalholcss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/LucasCarvalhoSteffens/LucasCarvalhoSteffens/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/LucasCarvalhoSteffens/LucasCarvalhoSteffens/output/github-contribution-grid-snake-dark.svg" />
  </div>
 
