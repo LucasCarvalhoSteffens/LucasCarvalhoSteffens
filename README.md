@@ -1,7 +1,7 @@
 ## Olá eu sou o Lucas de Carvalho Steffens, estudo Engenharia de Software!
 <div align="center">
   <a href="https://github.com/LucasCarvalhoSteffens">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasCarvalhoSteffens&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasCarvalhoSteffens&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
   <img width="47%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCarvalhoSteffens&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
