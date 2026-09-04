@@ -53,6 +53,7 @@ jobs:
             theme=tokyonight&
             hide_border=true&
             exclude_repo=DevMobile-Truco&
+            exclude=HTML,Makefile,CSS,Shell&
             cache_seconds=86400
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
