@@ -34,7 +34,7 @@ jobs:
           options: >-
             username=${{ github.repository_owner }}&
             show_icons=true&
-            theme=tokyonight&
+            theme=github_dark&
             include_all_commits=true&
             hide_border=true&
             cache_seconds=86400
@@ -50,7 +50,7 @@ jobs:
             username=${{ github.repository_owner }}&
             layout=compact&
             langs_count=8&
-            theme=tokyonight&
+            theme=github_dark&
             hide_border=true&
             exclude_repo=DevMobile-Truco&
             hide=html,makefile,css,shell&
