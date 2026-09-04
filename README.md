@@ -43,7 +43,10 @@ Tenho experiência com projetos acadêmicos, profissionais e pessoais, buscando 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/abap/abap-original.svg" width="40" title="ABAP"/>
+  <a href="https://www.sap.com/products/erp/abap.html">
+  <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" title="SAP ABAP"/>
+</a>
+
 </p>
 
 ### Backend & Frontend
@@ -119,9 +122,9 @@ O InvestSmart é uma aplicação web completa desenvolvida com arquitetura separ
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasCarvalhoSteffens&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170" src="./profile/stats.svg" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCarvalhoSteffens&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=DevMobile-Truco"/>
+<img height="170" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 </div>
 
