@@ -110,10 +110,6 @@ O InvestSmart é uma aplicação web completa desenvolvida com arquitetura separ
   <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://investsmartlcs.com">
-  <img src="https://img.shields.io/badge/Acessar%20Online-00ADD8?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
 </div>
 
 ---
