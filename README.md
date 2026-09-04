@@ -1,26 +1,154 @@
-## Olá eu sou o Lucas de Carvalho Steffens, estudo Engenharia de Software!
+# 👨‍💻 Lucas Carvalho Steffens
+
 <div align="center">
+
+### Software Engineer | Full Stack Developer
+
+Desenvolvimento de software, APIs, sistemas web e soluções escaláveis.
+
+<p>
   <a href="https://github.com/LucasCarvalhoSteffens">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasCarvalhoSteffens&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img width="47%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCarvalhoSteffens&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=DevMobile-Truco"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-de-carvalho-steffens-017b8b210/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:carvalholcss@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-   <img align="center" alt="Lucas-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+---
+
+## 🚀 Sobre mim
+
+Sou **Engenheiro de Software** com experiência em desenvolvimento de aplicações, APIs REST, bancos de dados e infraestrutura.
+
+Tenho foco em **Backend e Full Stack**, trabalhando com diferentes tecnologias para construir sistemas completos — desde a aplicação e banco de dados até **containers, CI/CD, monitoramento e deploy em Linux**.
+
+Tenho experiência com projetos acadêmicos, profissionais e pessoais, buscando sempre aplicar boas práticas de **arquitetura, segurança, qualidade de código e automação**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Linguagens
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/abap/abap-original.svg" width="40" title="ABAP"/>
+</p>
+
+### Backend & Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" title="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+</p>
+
+### Database, DevOps & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" title="Prometheus"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" title="Grafana"/>
+</p>
+
+**Também:** REST APIs · JWT · Docker Compose · GitHub Actions · CI/CD · SonarCloud · Caddy · Gunicorn · SQL
+
+---
+
+## ⭐ Projeto em destaque
+
+### 📈 InvestSmart
+
+**Plataforma de análise fundamentalista e simulação de carteiras de investimentos.**
+
+O InvestSmart é uma aplicação web completa desenvolvida com arquitetura separada entre frontend, backend e banco de dados.
+
+**Principais recursos:**
+
+* 📊 Análise fundamentalista
+* 💰 Método de Barsi
+* 📐 Método de Graham
+* 📈 Projeção de investimentos
+* 💼 Simulação e gerenciamento de carteiras
+* 🔔 Sistema de alertas
+* 🔐 Autenticação com JWT
+* 🌐 API REST
+* 📡 Integração com dados financeiros
+* ⚙️ Jobs automatizados
+* 📊 Prometheus & Grafana
+* 🔒 HTTPS
+* 🐳 Docker
+
+**Stack:** React · Vite · Django REST Framework · PostgreSQL · Docker · Caddy · Prometheus · Grafana
+
+<div align="center">
+
+<a href="https://github.com/LucasCarvalhoSteffens/InvestSmart">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://investsmartlcs.com">
+  <img src="https://img.shields.io/badge/Acessar%20Online-00ADD8?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
 </div>
 
-##
-<div>
-  <a href="https://www.instagram.com/lucas.c.s__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/lusteca_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-de-carvalho-steffens-017b8b210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:carvalholcss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/LucasCarvalhoSteffens/LucasCarvalhoSteffens/output/github-contribution-grid-snake-dark.svg" />
- </div>
+---
 
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasCarvalhoSteffens&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCarvalhoSteffens&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=DevMobile-Truco"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="mailto:carvalholcss@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/lucas-de-carvalho-steffens-017b8b210/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/lucas.c.s__/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+
+<div align="center">
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=LucasCarvalhoSteffens&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+</div>
